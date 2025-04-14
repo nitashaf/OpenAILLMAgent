@@ -31,7 +31,7 @@ Simple Agent
 
 Knowledge Base Agent
 - Right now works with one of the uploaded fine :  A survey on deep learning-based algorithms for the traveling
- salesman problem"
-- Utilizes OpenAI's `file_id` and `response` endpoint for Q&A over the uploaded content.
+ salesman problem
+- Utilizes OpenAI's `file_id` and `response` apis for Q&A over the uploaded content.
 - Best suited for academic papers, research summaries, or structured PDF content.
 
